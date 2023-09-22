@@ -17,16 +17,7 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r cars}
 summary(cars)
 
-jsjdaksjhklajsd dsad
-
-
-s
-3
-
-
-sd
-a
-asdsda
+lm(cars)
 
 
 ```
