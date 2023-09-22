@@ -52,5 +52,9 @@ plot(pressure)
 
 plot(cars)
 
+plot(cars)
+plot(cars)
+plot(cars)
+
 
 ```
