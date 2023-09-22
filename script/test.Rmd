@@ -40,3 +40,17 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 
 This is a test
+
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+
+plot(pressure)
+
+plot(cars)
+
+
+```
